@@ -1,0 +1,7 @@
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 7\P7T1\bin\Debug\P7T1.exe.config
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 7\P7T1\bin\Debug\P7T1.exe
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 7\P7T1\bin\Debug\P7T1.pdb
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 7\P7T1\obj\Debug\P7T1.csprojAssemblyReference.cache
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 7\P7T1\obj\Debug\P7T1.csproj.CoreCompileInputs.cache
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 7\P7T1\obj\Debug\P7T1.exe
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 7\P7T1\obj\Debug\P7T1.pdb
