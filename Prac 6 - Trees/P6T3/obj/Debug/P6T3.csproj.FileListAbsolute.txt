@@ -1,0 +1,7 @@
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 6 - Trees\P6T3\bin\Debug\P6T3.exe.config
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 6 - Trees\P6T3\bin\Debug\P6T3.exe
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 6 - Trees\P6T3\bin\Debug\P6T3.pdb
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 6 - Trees\P6T3\obj\Debug\P6T3.csproj.CoreCompileInputs.cache
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 6 - Trees\P6T3\obj\Debug\P6T3.exe
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 6 - Trees\P6T3\obj\Debug\P6T3.pdb
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 6 - Trees\P6T3\obj\Debug\P6T3.csprojAssemblyReference.cache
