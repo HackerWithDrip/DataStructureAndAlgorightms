@@ -1,0 +1,30 @@
+run BuyItems()
+run FindCustomer()
+run CheckCustomerID()
+return
+run CheckCustomerID()
+return
+return
+run FindStore()
+run GetShoppingCart()
+return
+return
+run ProcessPayment()
+return
+run AddToLog()
+run JoinStrings()
+return
+run AddToLog()
+run JoinStrings()
+run FindDateStamp()
+run GetTimeZone()
+return
+run GetTimeZone()
+run FindOSLanguage()
+run FindOSPrefereces()
+run ReadRegsitery()
+run GetItemInRegistery()
+return
+return
+return
+return
