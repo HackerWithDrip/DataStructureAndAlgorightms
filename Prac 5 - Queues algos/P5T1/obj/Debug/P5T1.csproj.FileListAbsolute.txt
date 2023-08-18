@@ -1,0 +1,14 @@
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 -  Binary Trees intro\P5T1\bin\Debug\P5T1.exe.config
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 -  Binary Trees intro\P5T1\bin\Debug\P5T1.exe
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 -  Binary Trees intro\P5T1\bin\Debug\P5T1.pdb
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 -  Binary Trees intro\P5T1\obj\Debug\P5T1.csprojAssemblyReference.cache
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 -  Binary Trees intro\P5T1\obj\Debug\P5T1.csproj.CoreCompileInputs.cache
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 -  Binary Trees intro\P5T1\obj\Debug\P5T1.exe
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 -  Binary Trees intro\P5T1\obj\Debug\P5T1.pdb
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 - Queues algos\P5T1\bin\Debug\P5T1.exe.config
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 - Queues algos\P5T1\bin\Debug\P5T1.exe
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 - Queues algos\P5T1\bin\Debug\P5T1.pdb
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 - Queues algos\P5T1\obj\Debug\P5T1.csprojAssemblyReference.cache
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 - Queues algos\P5T1\obj\Debug\P5T1.csproj.CoreCompileInputs.cache
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 - Queues algos\P5T1\obj\Debug\P5T1.exe
+C:\Users\mc\Desktop\NMU\2022 - Second Year\Semester 2\WRAV202 - Data Structures & Algorithms\Practicals\Prac 5 - Queues algos\P5T1\obj\Debug\P5T1.pdb
